@@ -1,6 +1,4 @@
-previousNumber = 0
-currentNumber = 1
-
+previousNumber, currentNumber = 0, 1
 print previousNumber
 
 while currentNumber < 100:
